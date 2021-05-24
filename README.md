@@ -13,3 +13,5 @@ struct ContentView: View {
     }
 }
 ```
+
+![7-segment-display-diagram](imgs/diagram.png)
