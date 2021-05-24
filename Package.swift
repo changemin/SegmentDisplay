@@ -5,6 +5,10 @@ import PackageDescription
 
 let package = Package(
     name: "SegmentDisplay",
+    platforms: [
+        .iOS(.v14),
+        .macOS(.v11)
+    ],
     products: [
         .library(
             name: "SegmentDisplay",
