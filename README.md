@@ -14,4 +14,8 @@ struct ContentView: View {
 }
 ```
 
+## Todo 
+
+- [ ] italic 
+
 ![7-segment-display-diagram](imgs/diagram.png)
