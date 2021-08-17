@@ -1,5 +1,7 @@
 # SegmentDisplay
 
+⚠️ This project is not complete yet!
+
 ## Usage
 
 ```Swift
