@@ -30,6 +30,7 @@ struct ContentView: View {
         Segment(num: $num)
     }
 }
+```
 
 ## Todo 
 
